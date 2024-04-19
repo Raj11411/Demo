@@ -13,6 +13,7 @@
 
 
 cd <folder name> "change directory"
+cd .. "come out of the currect directory"
 git status "status like untracked, new folder, comitted or not"
 ls  "chek how many files inside the directory"
 touch "to creat a new file"
