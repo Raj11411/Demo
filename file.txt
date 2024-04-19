@@ -1,0 +1,17 @@
+1. To copy github.com to ur local machine
+    git clone <https://github.com/Raj11411/Demo.git>
+2. To Create/modify
+    tocuh <new file> or modify the current file
+    (above both will be untracked)
+3. To Track/stage
+    git add <filename.format> or git add . (for all files to be tracked/staged)
+4. To Commit:
+    git commit -m "message what changes"
+5. To Push to back to github.com
+    git push origin main
+    (here it asks the permision to login github credentials and permision like colab)
+
+
+cd <folder name> "change directory"
+git status "status like untracked, new folder, comitted or not"
+ls  how many files inside the directory 
